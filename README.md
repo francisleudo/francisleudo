@@ -1,16 +1,21 @@
-## Hi there 👋
+# Francis 👋
 
-<!--
-**francisleudo/francisleudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Processos e estudante de Redes de Computadores.
 
-Here are some ideas to get you started:
+Gosto de tecnologia, Linux, infraestrutura e de aprender como as coisas funcionam. Costumo explorar novos projetos, montar soluções e experimentar ferramentas no meu próprio homelab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,windows,python,git,github&theme=light" />
+</p>
+
+### Projetos
+
+- [Suporte_TI](https://github.com/francisleudo/Suporte_TI)
+- [AstroCat Log](https://astrocatlog.wordpress.com)
+- [The Arcane Noises](https://www.youtube.com/@TheArcaneNoises-i9t)
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/francisleudo-silva-a9ba16237/) · [Portfólio](https://francissilva.notion.site/Francisleudo-Silva-Analista-deProcessos-21352cef70798092bb42ec8c5d026b1a)
