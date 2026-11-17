@@ -6,9 +6,9 @@ Gosto de tecnologia, Linux, infraestrutura e de aprender como as coisas funciona
 
 ### Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,docker,windows,python,git,github&theme=light" />
-</p>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,docker,nginx,grafana,notion,obsidian,github,md,wordpress" alt="Skills" /> </a> </p> <p> <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white" alt="Home Assistant" /> <img src="https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white" alt="AdGuard Home" /> <img src="https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square" alt="Uptime Kuma" /> <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square" alt="Zabbix" /> <img src="https://img.shields.io/badge/IXC-1F6FEB?style=flat-square" alt="IXC" /> <img src="https://img.shields.io/badge/OPA_Suite-6F42C1?style=flat-square" alt="OPA Suite" /> </p>
+
+
 
 ### Contato
 
